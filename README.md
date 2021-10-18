@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## Objectives
 
-Learn Java Script, Java and C++ 
+Learn <img src ="./JavaScript-logo.png" alt="Java Script logo" width="4%" title='JS'/>, Java and C++ 
 
 
 [![Active](https://github-readme-stats.vercel.app/api?username=Nazzuma&show_icons=true&theme=dark&count_private=true&hide=prs,issues)](https://www.github.com/Nazzuma)
