@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## Objectives
 
-Learn <img src ="C:\Users\pc\Desktop\Dev\JavaScript-logo.png" alt="Java Script logo" width="4%" title='JS'/>, Java and C++ 
+Learn [![Active](img.JavaScript-logo.png)], Java and C++ 
 
 
 [![Active](https://github-readme-stats.vercel.app/api?username=Nazzuma&show_icons=true&theme=dark&count_private=true&hide=prs,issues)](https://www.github.com/Nazzuma)
