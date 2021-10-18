@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## Objectives
 
-Learn [![Active](img.JavaScript-logo.png)], Java and C++ 
+Learn [![Active](img.https://th.bing.com/th/id/R.bbf41ae0ba646275d09668883f890c9f?rik=FPG9hvSLW981Ww&pid=ImgRaw&r=0)], Java and C++ 
 
 
 [![Active](https://github-readme-stats.vercel.app/api?username=Nazzuma&show_icons=true&theme=dark&count_private=true&hide=prs,issues)](https://www.github.com/Nazzuma)
