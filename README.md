@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 ### Hello Guys, I'm Matis! 👋
 
+![](https://github.com/Nazzuma/nazzuma/blob/master/Image/Bannergithub.png)
+
 [![Active](https://img.shields.io/badge/Langages-C%20-red?style=flat-square)](https://www.github.com/Nazzuma)
 [![Active](https://img.shields.io/badge/Discord-CLICK-blue?style=flat-square&logo=discord)](https://discord.gg/) 
 
